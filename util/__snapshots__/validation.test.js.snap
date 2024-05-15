@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`validateNotError() > should throw Error that was passed to it > Error occured 1`] = `
+ValidationError {
+  "message": "Error occured",
+}
+`;
